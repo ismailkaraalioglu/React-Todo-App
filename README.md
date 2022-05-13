@@ -1,8 +1,11 @@
 # Patika.dev React modülü "todos project" çalışması.
 
+https://ismailkaraalioglu-todoapp.netlify.app/
+
 ---
 
 ### Proje Detayları
+
 1. Yeni bir todo ekleyebilme.
 2. "Active" , "Completed" a göre filtreleme yapabilme.
 3. Tüm todoları "All Completed" yapılabilme, input'a giriş yapılmadığında invisible olarak görünmesi.
