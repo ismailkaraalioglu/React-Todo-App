@@ -10,3 +10,5 @@
 5. Filtrelemeye göre Todo List sayısı "item left" olarak ekranda görünmektedir.
 6. Girilen Todo List'leri Local Storage'e kayıt etme , Todo List silindiğinde Local Storage'den silinebilme.
 7. Güncel tarihin ekranda görünmesi.
+
+![todoApp](./src/img/todoApp.jpg)
